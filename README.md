@@ -107,7 +107,7 @@ Connect a Looker Studio report to the `streamsight_data.event_counts` BigQuery t
 
 ## Dashboard Preview
 
-_Add a screenshot of your Looker Studio dashboard here._
+_The screenshot of Looker Studio dashboard is here._
 
 
 ![Dashboard](dashboard.png)
