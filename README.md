@@ -195,6 +195,7 @@ _The screenshot of Looker Studio dashboard is here._
 
 ## Author
 
+Kishan G
 Built as a self-directed learning project to understand real-time streaming architecture on Google Cloud.
 
 
