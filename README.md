@@ -1,3 +1,4 @@
+# Purely for Learning 
 # StreamSight — Real-Time Event Analytics Platform
 
 A cloud-native, real-time event analytics pipeline built on Google Cloud. StreamSight ingests high-throughput streaming events, processes them with windowed aggregation, persists results to BigQuery, detects anomalies, and visualizes live metrics through a Looker Studio dashboard.
@@ -196,7 +197,7 @@ _The screenshot of Looker Studio dashboard is here._
 ## Author
 
 Kishan G
-Built as a self-directed learning project to understand real-time streaming architecture on Google Cloud.
+Built as a self-directed learning Project to understand real-time streaming architecture on Google Cloud.
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
